@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 attrs==25.4.0
 beautifulsoup4==4.14.3
 blinker==1.9.0
@@ -56,3 +57,8 @@ waitress==3.0.2
 Werkzeug==3.1.4
 wsproto==1.2.0
 zipp==3.23.0
+=======
+dash
+pandas
+dash[testing]
+>>>>>>> 55ddd504994cf7b7f57109dcc298b3b2d269c064
